@@ -5,6 +5,7 @@ import { FieldTimeOutlined, VideoCameraOutlined, FieldNumberOutlined  } from '@a
 import Header from '../components/Header'
 import Author from '../components/Author'
 import Advert from '../components/Advert'
+import Footer from '../components/Footer'
 import '../public/style/pages/index.css'
 
 
@@ -48,6 +49,7 @@ const Home = () => {
           <Advert />
         </Col>
       </Row>
+      <Footer/>
     </div>
   )
 }
