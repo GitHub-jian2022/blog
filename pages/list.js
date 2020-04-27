@@ -42,7 +42,7 @@ const Home = () => {
                 <div className="list-icon">
                   <span><FieldTimeOutlined />2019-06-28</span>
                   <span><VideoCameraOutlined />视频教程</span>
-                  <span><FieldNumberOutlined />5498人</span>
+                  <span><FieldNumberOutlined />999人</span>
                 </div>
                 <div className="list-context">{item.context}</div>  
               </List.Item>
